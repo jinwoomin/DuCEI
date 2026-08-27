@@ -19,4 +19,4 @@ python preprocess.py \
                     --epochs 5 \
                     --max_seq_len ${max_seq_len} \
                     --opt ${opt} \
-                    --seed ${seed} \
+                    --seed ${seed}
