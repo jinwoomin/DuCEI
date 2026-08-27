@@ -29,4 +29,4 @@ python preprocess.py \
             --max_num_candidates ${k} \
             --sampling ${sampling} \
             --add_desc \
-            --add_type \
+            --add_type
