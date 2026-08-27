@@ -1,0 +1,6 @@
+# Core runtime dependencies for DuCEI
+numpy==2.3.3
+torch>=2.6.0
+tqdm==4.67.3
+transformers==4.56.1
+wikipedia2vec==2.0.0
