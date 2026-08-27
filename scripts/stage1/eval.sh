@@ -48,4 +48,4 @@ python3 main.py \
     --max_patience ${max_patience} \
     --gradient_accumulation_steps ${GA} \
     --eval \
-    --save \
+    --save
